@@ -1,4 +1,3 @@
-# Rate-Limiter
 
 # The 3 most popular Rate Limit Methods implemented in GO
 
